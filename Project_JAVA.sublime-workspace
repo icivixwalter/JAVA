@@ -15,6 +15,17 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/c/CASA/LINGUAGGI/JAVA/.gitattributes",
+			"settings":
+			{
+				"buffer_size": 1428,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -154,6 +165,7 @@
 	],
 	"file_history":
 	[
+		"/c/CASA/LINGUAGGI/JAVA/.gitattributes",
 		"/C/CASA/LINGUAGGI/SUBLIMETEXT/README_COMANDI_VARI.md",
 		"/C/CASA/LINGUAGGI/JAVA/Project_JAVA.md",
 		"/c/CASA/LINGUAGGI/JAVA/GIT_BAT/git_STATUS+ADD+COMMIT+PUSH.BAT",
@@ -303,6 +315,36 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/c/CASA/LINGUAGGI/JAVA/.gitattributes",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1428,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								761,
+								779
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Git Formats/Git Attributes.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
